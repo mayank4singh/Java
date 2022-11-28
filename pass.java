@@ -19,7 +19,7 @@ public class pass {
             System.out.println("PASS");
         }
         else{
-            System.out.println("FAIL");
+            System.out.println("FAIL ");
         }
     }
 }

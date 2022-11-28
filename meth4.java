@@ -13,7 +13,7 @@ public class meth4 {
 }
     public static void main(String[] args) {
         meth4 obj=new meth4();
-        System.out.println("Prime numbers between 1 and 500 is:"); 
+        System.out.println("Prime numbers between 1 and 500 are:"); 
         for (int i=1;i<=500;i++) {  
            if (obj.isPrime(i)==true) 
                System.out.println(i);
